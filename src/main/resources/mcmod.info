@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BattleMod",
+  "name": "Battle Mod",
+  "description": "Example placeholder mod.",
+  "version": "${1.8-0.1}",
+  "mcversion": "${1.8}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ceddy4395, jodases, riki2198"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

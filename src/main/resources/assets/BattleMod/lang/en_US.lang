@@ -1,0 +1,18 @@
+//creativeTab
+itemGroup.tabBattleMod=Battle Mod
+
+//ingots
+item.bronze_ingot.name=Bronze Ingot
+item.copper_ingot.name=Copper Ingot
+item.steel_ingot.name=Steel Ingot
+item.steel_dust.name=Steel Dust
+
+//ores
+tile.bronze_Ore.name=Bronze Ore
+tile.copper_Ore.name=Copper Oree
+
+//blocks
+tile.bronze_Block.name=Bronze Block
+tile.copper_Block.name=Copper Block
+
+//tools
